@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contact_app</string>
+    <string name="app_description">We make it easy to manage
+        your contact</string>
+    <string name="title_fragment">Add new contact</string>
+    <string name="hint_input">Frist Name</string>
+    <string name="hint_description">Last Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
